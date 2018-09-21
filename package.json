@@ -24,6 +24,6 @@
   "license": "MIT",
   "dependencies": {
     "riot-tag-loader": "^2.0.2",
-    "riot": "^3.8.1"
+    "riot": "^3.12.0"
   }
 }
